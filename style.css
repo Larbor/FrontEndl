@@ -52,16 +52,12 @@ ul {
         font-weight: 150;
         padding: 10px;
         background-color: rgba(17, 17, 17, 0.9);
-        margin-left: 471px;
-        margin-right: 471px;
 }
 
 #rodape {
     text-align: center;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.9);
-    margin-left: 471px;
-    margin-right: 471px;
     border-radius: 20px;
 }
 
